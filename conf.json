@@ -1,0 +1,9 @@
+{
+  "port": 2083,
+  "url": "http://trendyband.md/insta/",
+  "cron": "*/1 * * * *",
+  "token": "730045783:AAEmZOKRdQUmFf0b8EIh1NVWqnywiC6IkFo",
+  "mongoose": {
+    "uri": "mongodb://localhost/instalator"
+  }
+}
